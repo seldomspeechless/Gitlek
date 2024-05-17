@@ -10,3 +10,5 @@
 | Björn       | x        |
 | Otilia      | x        |
 | Jenny       | x        |
+
+###### Heading 6
