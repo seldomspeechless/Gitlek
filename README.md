@@ -12,3 +12,5 @@
 | Jenny       | x        |
 
 ###### Heading 6
+
+## Heading 2
